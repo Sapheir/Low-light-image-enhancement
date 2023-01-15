@@ -5,6 +5,6 @@ Trained on Google Colab using the [LOL Dataset](https://paperswithcode.com/datas
 
 ### Implementation was helped by the following repositories:
 
-https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix - example used to implement pix2pix
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix - example used to implement pix2pix (modified from pytorch-CycleGAN-and-pix2pix/models/pix2pix_model.py to meet my needs)
 
 https://github.com/martinarjovsky/WassersteinGAN - used to understand the modifications needed for WGAN
